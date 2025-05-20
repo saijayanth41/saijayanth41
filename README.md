@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing my **Master’s in Computer Science** at **Illinois Institute of Technology**, graduating in **May 2025**.
+- 🎓  Graduated with a **Master of Science in Computer Science** from **Illinois Institute of Technology**.
 - 💼 Previously worked as a **Software Engineer at Cognizant**, focusing on healthcare solutions and DevOps practices.
 - ☁️ Certified in **AWS**, **Azure**, and **Oracle Cloud** with hands-on experience in **Terraform, Jenkins, Ansible, Docker**, and **GitHub Actions**.
 - 🚀 Currently working on **cloud-native and DevOps projects** 
