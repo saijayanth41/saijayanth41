@@ -44,7 +44,7 @@
 
 ### 🌐 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/saijayanthr)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saijayanthr/)
 - 📫 Email: saijayanth41@gmail.com
 - 💬 Ask me about **DevOps tools, cloud careers, or productivity tips**
 
